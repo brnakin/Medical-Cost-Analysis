@@ -1,6 +1,6 @@
 # Health Insurance Cost Estimation Project
 
-In this project, we aim to develop an end-to-end data science application to estimate the approximate cost of a person's health insurance based on the given variables. The project involves data analysis, preprocessing, model selection, hyperparameter optimization, and model evaluation.
+In this project, I aim to develop an end-to-end data science application to estimate the approximate cost of a person's health insurance based on the given variables. The project involves data analysis, preprocessing, model selection, hyperparameter optimization, and model evaluation.
 
 Dataset: https://www.kaggle.com/datasets/mirichoi0218/insurance
 
